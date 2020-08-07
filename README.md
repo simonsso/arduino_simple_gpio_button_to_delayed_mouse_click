@@ -5,3 +5,4 @@ The typical use case when running for instance a flashing rig where a button mus
 
 If the mouse cursor have been carefully placed over the button which is to be clicked, the entire flow can be operated from the rig. 
 
+This have been verified with an Arduino Due board
